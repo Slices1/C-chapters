@@ -1,0 +1,3 @@
+C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/cs code foolder/char case converter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/cs code foolder/char case converter/cmake-build-debug/CMakeFiles/char_case_converter.dir
+C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/cs code foolder/char case converter/cmake-build-debug/CMakeFiles/edit_cache.dir

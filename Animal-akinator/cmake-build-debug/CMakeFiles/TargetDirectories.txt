@@ -1,0 +1,3 @@
+C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/cs code foolder/Animal akinator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/cs code foolder/Animal akinator/cmake-build-debug/CMakeFiles/Animal_akinator.dir
+C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/cs code foolder/Animal akinator/cmake-build-debug/CMakeFiles/edit_cache.dir

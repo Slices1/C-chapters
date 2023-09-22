@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main() {
-    char choice = "";
+    char choice = 'x';
     int childtickets = 0;
     int adulttickets = 0;
     float childcost =0;
