@@ -31,23 +31,93 @@ int main() {
                     }
                 }
             } else {
-                printf("Fluffy? (y/n): ");
+                choice = 18;
+                printf("Not Fluffy? (y/n): ");
                 scanf("%c",&ans);
                 if (ans == "y") {
-                    choice = 17;
-                } else {
-                    printf("Related to pepper pig? (y/n): ");
+                    choice = 16;
+                    printf("Central to Pepper Pig? (y/n): ");
                     scanf("%c",&ans);
-                    //cutting out the need of an else
-                    choice = 15;
                     if (ans == "y") {
-                        choice = 16;
+                        choice = 17;
+                    }
+                }
+            }
+        } else {
+            printf("Sea-faring? (y/n): ");
+            scanf("%c",&ans);
+            if (ans == "y") {
+                printf("Humungous? (y/n): ");
+                scanf("%c",&ans);
+                if (ans == "y") {
+                    choice = 15;
+                } else {
+                    choice = 13;
+                    printf("Has whiskers? (y/n): ");
+                    scanf("%c",&ans);
+                    if (ans == "y") {
+                        choice = 14;
+                    }
+                }
+            } else {
+                printf("Able to kill you in an instant? (y/n): ");
+                scanf("%c",&ans);
+                choice = 10;
+                if (ans == "y") {
+                    printf("In MGM Pictures' branding? (y/n): ");
+                    scanf("%c",&ans);
+                    choice = 11;
+                    if (ans == "y") {
+                        choice = 12;
                     }
                 }
             }
         }
     } else {
-
+        printf("Insect? (y/n): ");
+        scanf("%c",&ans);
+        if (ans == "y") {
+            printf("Flies? (y/n): ");
+            scanf("%c",&ans);
+            if (ans == "y") {
+                printf("Farmed for honey? (y/n): ");
+                scanf("%c",&ans);
+                choice = 8;
+                if (ans == "y") {
+                    choice = 9;
+                }
+            } else {
+                printf("6 legs? (y/n): ");
+                scanf("%c",&ans);
+                choice = 5;
+                if (ans == "y") {
+                    printf("Snacks on wood? (y/n): ");
+                    scanf("%c",&ans);
+                    choice = 6;
+                    if (ans == "y") {
+                        choice = 7;
+                    }
+                }
+            }
+        } else {
+            printf("Sea-faring? (y/n): ");
+            scanf("%c",&ans);
+            choice = 1;
+            if (ans == "y") {
+                choice = 2;
+                printf("2 eyes? (y/n): ");
+                scanf("%c",&ans);
+                if (ans == "y") {
+                    choice = 3;
+                    printf("Tentacle-y? (y/n): ");
+                    scanf("%c",&ans);
+                    choice = 3;
+                    if (ans == "y") {
+                        choice = 4;
+                    }
+                }
+            }
+        }
     }
 
 
