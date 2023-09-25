@@ -1,0 +1,11 @@
+# ninja log v5
+0	77	7173491507226502	CMakeFiles/item_adder_task2.dir/main.c.obj	64151286e2dd39c3
+79	321	7173491509605460	item_adder_task2.exe	bb01a67a92c6b349
+2	84	7173493136001174	CMakeFiles/item_adder_task2.dir/main.c.obj	64151286e2dd39c3
+85	214	7173493137316165	item_adder_task2.exe	bb01a67a92c6b349
+2	98	7173494353457473	CMakeFiles/item_adder_task2.dir/main.c.obj	64151286e2dd39c3
+98	243	7173494354924468	item_adder_task2.exe	bb01a67a92c6b349
+1	75	7173494473816751	CMakeFiles/item_adder_task2.dir/main.c.obj	64151286e2dd39c3
+76	194	7173494474975666	item_adder_task2.exe	bb01a67a92c6b349
+2	76	7173495322633741	CMakeFiles/item_adder_task2.dir/main.c.obj	64151286e2dd39c3
+76	200	7173495323897738	item_adder_task2.exe	bb01a67a92c6b349
