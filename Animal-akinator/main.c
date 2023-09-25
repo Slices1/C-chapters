@@ -1,5 +1,5 @@
 #include <stdio.h>
-    
+
 int main() {
     int choice =0;
     char ans = "x";
@@ -10,7 +10,6 @@ int main() {
     }
     printf("Is your animal a mammal? (y/n):");
     scanf(" %c",&ans);
-    printf("DEBUG: %c",ans);
     if (ans == 'y') {
         choice = 9;
         printf("Native to English soil? (y/n):");
