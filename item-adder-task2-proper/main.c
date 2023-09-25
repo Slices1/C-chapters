@@ -16,7 +16,7 @@ int main() {
         item_count ++;
     } while (item_count != specified_item_no);
 
-    float mean = running_total/specified_item_no
+    float mean = running_total/specified_item_no;
 
     printf("Average value: %f",mean);
     return 0;
