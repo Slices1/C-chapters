@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "item_adder_task2_proper_answer_compeltion_completion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "item_adder_task2_proper_answer_compeltion_completion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-item_adder_task2_proper_answer_compeltion_completion-Debug-cb30f7f4cb905199aa15.json",
+					"name" : "item_adder_task2_proper_answer_compeltion_completion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/item-adder-task2-proper-answer-compeltion-completion/cmake-build-debug",
+		"source" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/item-adder-task2-proper-answer-compeltion-completion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
