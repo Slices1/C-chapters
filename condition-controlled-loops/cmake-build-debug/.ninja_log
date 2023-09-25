@@ -1,0 +1,7 @@
+# ninja log v5
+0	79	7173477413874712	CMakeFiles/condition_controlled_loops.dir/main.c.obj	671f8bc111e7a997
+80	217	7173477415290726	condition_controlled_loops.exe	e35d2b59c7f18866
+2	87	7173479805492787	CMakeFiles/condition_controlled_loops.dir/main.c.obj	671f8bc111e7a997
+88	219	7173479806648595	condition_controlled_loops.exe	e35d2b59c7f18866
+1	79	7173480416503657	CMakeFiles/condition_controlled_loops.dir/main.c.obj	671f8bc111e7a997
+80	215	7173480417975317	condition_controlled_loops.exe	e35d2b59c7f18866
