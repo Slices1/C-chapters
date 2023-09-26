@@ -1,0 +1,3 @@
+C:/Users/choco/Documents/GitHub/C-chapters/magic-number-task3/cmake-build-debug/CMakeFiles/magic_number_task3.dir
+C:/Users/choco/Documents/GitHub/C-chapters/magic-number-task3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/choco/Documents/GitHub/C-chapters/magic-number-task3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

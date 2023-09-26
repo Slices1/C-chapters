@@ -1,0 +1,15 @@
+# ninja log v5
+0	111	7174204942748510	CMakeFiles/magic_number_task3.dir/main.c.obj	d96b4badadb53985
+113	235	7174204943931677	magic_number_task3.exe	62ce6dd3364cbcd5
+2	68	7174205473963852	CMakeFiles/magic_number_task3.dir/main.c.obj	d96b4badadb53985
+68	160	7174205474824705	magic_number_task3.exe	62ce6dd3364cbcd5
+2	80	7174206146349757	CMakeFiles/magic_number_task3.dir/main.c.obj	d96b4badadb53985
+81	171	7174206147216810	magic_number_task3.exe	62ce6dd3364cbcd5
+2	73	7174206984882431	CMakeFiles/magic_number_task3.dir/main.c.obj	d96b4badadb53985
+73	170	7174206985764690	magic_number_task3.exe	62ce6dd3364cbcd5
+1	69	7174207211863782	CMakeFiles/magic_number_task3.dir/main.c.obj	d96b4badadb53985
+70	168	7174207212726399	magic_number_task3.exe	62ce6dd3364cbcd5
+2	67	7174208004249463	CMakeFiles/magic_number_task3.dir/main.c.obj	d96b4badadb53985
+67	165	7174208005176725	magic_number_task3.exe	62ce6dd3364cbcd5
+2	70	7174208337219140	CMakeFiles/magic_number_task3.dir/main.c.obj	d96b4badadb53985
+71	180	7174208338242775	magic_number_task3.exe	62ce6dd3364cbcd5
