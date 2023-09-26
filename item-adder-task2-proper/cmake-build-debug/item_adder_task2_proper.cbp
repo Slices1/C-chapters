@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="item_adder_task2_proper"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item_adder_task2_proper">
+				<Option output="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/item_adder_task2_proper.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 item_adder_task2_proper"/>
+					<CompileFile command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item_adder_task2_proper/fast">
+				<Option output="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/item_adder_task2_proper.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include"/>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../include"/>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed"/>
+					<Add directory="C:/mingw64_2023/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 item_adder_task2_proper/fast"/>
+					<CompileFile command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64_2023/bin/mingw32-make.exe -f &quot;C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/main.c">
+			<Option target="item_adder_task2_proper"/>
+		</Unit>
+		<Unit filename="C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

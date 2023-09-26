@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\item_adder_task2_proper.dir/objects.a
+C:\mingw64_2023\bin\ar.exe qc CMakeFiles\item_adder_task2_proper.dir/objects.a @CMakeFiles\item_adder_task2_proper.dir\objects1.rsp
+C:\mingw64_2023\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\item_adder_task2_proper.dir/objects.a -Wl,--no-whole-archive -o item_adder_task2_proper.exe -Wl,--out-implib,libitem_adder_task2_proper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\item_adder_task2_proper.dir\linkLibs.rsp

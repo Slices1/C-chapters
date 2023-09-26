@@ -1,0 +1,3 @@
+C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/CMakeFiles/item_adder_task2_proper.dir
+C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2-proper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

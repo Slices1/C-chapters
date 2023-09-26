@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "item_adder_task2_proper_answer_compeltion_completion.exe"
+			"path" : "item_adder_task2_proper.exe"
 		},
 		{
-			"path" : "item_adder_task2_proper_answer_compeltion_completion.pdb"
+			"path" : "item_adder_task2_proper.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -38,10 +38,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
-				},
-				{
-					"fragment" : "-std=gnu99"
+					"fragment" : "-g -std=gnu99 -fdiagnostics-color=always"
 				}
 			],
 			"language" : "C",
@@ -59,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "item_adder_task2_proper_answer_compeltion_completion::@6890427a1f51a3e7e1df",
+	"id" : "item_adder_task2_proper::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "item_adder_task2_proper_answer_compeltion_completion",
-	"nameOnDisk" : "item_adder_task2_proper_answer_compeltion_completion.exe",
+	"name" : "item_adder_task2_proper",
+	"nameOnDisk" : "item_adder_task2_proper.exe",
 	"paths" : 
 	{
 		"build" : ".",
