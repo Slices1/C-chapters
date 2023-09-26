@@ -1,4 +1,27 @@
 #include <stdio.h>
+int armstrong_order(int val1) { //count digits basically
+    int n = 0;
+    while (val1) {
+        n++;
+        val1 = val1/10;
+    }
+    return n;
+}
+
+int armstrong_check(int val1) {
+    int n = armstrong_order(val1);
+    int temp = val1, sum = 0;
+    while (temp) {
+        int r = temp % 10;
+        sum += pow(r, n);
+        temp = temp / 10;
+    }
+
+    if (sum == val1)
+        return 1;
+    else
+        return 0;
+}
 
 int main() {
     char loop_option;
@@ -20,9 +43,15 @@ int main() {
             printf("%d, %d", val1, val2);
         }
 
+        if (armstrong_check(val1) == 1)
+            printf("True\n");
+        else
+            printf("False\n");
 
         printf("\ne for exit, c for checking a number, r for checking a whole range: ");
         scanf("%c", &loop_option);
+
+
     } while (loop_option != 'e');
 
     return 0;
