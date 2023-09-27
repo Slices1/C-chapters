@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.26"
+						"string" : "3.21"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "armstrong_number_task4::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-armstrong_number_task4-Debug-a3818b8caf6c7c3d7060.json",
+					"jsonFile" : "target-armstrong_number_task4-Debug-bdea37d7b9a17031bcc9.json",
 					"name" : "armstrong_number_task4",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/choco/Documents/GitHub/C-chapters/armstrong-number-task4/cmake-build-debug",
-		"source" : "C:/Users/choco/Documents/GitHub/C-chapters/armstrong-number-task4"
+		"build" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/armstrong-number-task4/cmake-build-debug",
+		"source" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/armstrong-number-task4"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 3
 	}
 }
