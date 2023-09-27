@@ -18,9 +18,10 @@ int armstrong_check(int val1) {
     }
 
     if (sum == val1)
-        return 1;
+        printf("Arm strong number found: %d",val1);
     else
-        return 0;
+        printf("Number %d failed.",val1);
+    return 0;
 }
 
 int main() {
@@ -35,21 +36,16 @@ int main() {
         if (loop_option == 'c') { // cehck  a single number
             printf("\nEnter the number you'd like checked for armstrength:");
             scanf("%d", &val1);
-
+            armstrong_check(val1)
 
         } else if (loop_option == 'r') { // check a range of da noomberssss!!!
             printf("\nEnter the start & end of the range seperated by only commas:");
             scanf("%d,%d", &val1, &val2);
             printf("%d, %d", val1, val2);
             for (int i=val1; i<val2; i++) {
-                val1 =
+                armstrong_check(i)
             }
         }
-
-        if (armstrong_check(val1) == 1)
-            printf("True\n");
-        else
-            printf("False\n");
 
         printf("\ne for exit, c for checking a number, r for checking a whole range: ");
         scanf("%c", &loop_option);
