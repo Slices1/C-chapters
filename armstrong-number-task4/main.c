@@ -41,6 +41,9 @@ int main() {
             printf("\nEnter the start & end of the range seperated by only commas:");
             scanf("%d,%d", &val1, &val2);
             printf("%d, %d", val1, val2);
+            for (int i=val1; i<val2; i++) {
+                val1 =
+            }
         }
 
         if (armstrong_check(val1) == 1)
