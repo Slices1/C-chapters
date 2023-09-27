@@ -1,3 +1,5 @@
+//cmake_minimum_required(VERSION 3.26)
+
 #include <stdio.h>
 int armstrong_order(int val1) { //count digits basically
     int n = 0;
