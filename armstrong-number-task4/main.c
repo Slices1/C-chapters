@@ -20,9 +20,9 @@ int armstrong_check(int val1) {
     }
 
     if (sum == val1)
-        printf("Arm strong number found: %d",val1);
+        printf("\nArm strong number found: %d",val1);
     else
-        printf("Number %d failed.\n",val1);
+        printf("\nNumber %d failed.",val1);
     return 0;
 }
 
@@ -44,7 +44,7 @@ int main() {
             printf("\nEnter the start & end of the range seperated by only commas:");
             scanf("%d,%d", &val1, &val2);
             printf("%d, %d", val1, val2);
-            for (int i=val1; i<val2; i++) {
+            for (int i=val1; i<val2+1; i++) {
                 armstrong_check(i);
             }
         }
