@@ -1,0 +1,8 @@
+# ninja log v5
+1	78	7176845143562669	CMakeFiles/times_tables_maker.dir/main.c.obj	ce61e212c1c6995c
+1	75	7176845180913205	CMakeFiles/times_tables_maker.dir/main.c.obj	ce61e212c1c6995c
+76	183	7176845181916477	times_tables_maker.exe	6e4bc027584dcceb
+2	80	7176845786430283	CMakeFiles/times_tables_maker.dir/main.c.obj	ce61e212c1c6995c
+80	190	7176845787589192	times_tables_maker.exe	6e4bc027584dcceb
+1	75	7176845965495341	CMakeFiles/times_tables_maker.dir/main.c.obj	ce61e212c1c6995c
+75	180	7176845966498643	times_tables_maker.exe	6e4bc027584dcceb
