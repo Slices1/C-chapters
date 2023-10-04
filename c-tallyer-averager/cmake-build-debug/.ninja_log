@@ -1,0 +1,17 @@
+# ninja log v5
+0	99	7181106968131612	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+101	338	7181106970472492	c_tallyer_averager.exe	41f56106c06a3c6b
+2	74	7181107878181480	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+75	186	7181107879269947	c_tallyer_averager.exe	41f56106c06a3c6b
+1	79	7181108648627751	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+79	202	7181108649836071	c_tallyer_averager.exe	41f56106c06a3c6b
+2	77	7181109240478894	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+77	192	7181109241597586	c_tallyer_averager.exe	41f56106c06a3c6b
+2	124	7181111300475700	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+127	350	7181111302696047	c_tallyer_averager.exe	41f56106c06a3c6b
+2	73	7181112747057093	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+74	188	7181112748141388	c_tallyer_averager.exe	41f56106c06a3c6b
+1	72	7181113077257290	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+72	180	7181113078316462	c_tallyer_averager.exe	41f56106c06a3c6b
+2	73	7181113790569865	CMakeFiles/c_tallyer_averager.dir/main.c.obj	fcb0f5d5cd00640b
+74	183	7181113791627525	c_tallyer_averager.exe	41f56106c06a3c6b
