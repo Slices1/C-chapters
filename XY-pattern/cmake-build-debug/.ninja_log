@@ -1,23 +1,3 @@
 # ninja log v5
-0	73	7176848928379390	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-74	176	7176848929381751	XY_pattern.exe	bc562bfa43df013f
-2	74	7176849188079910	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-74	177	7176849189082875	XY_pattern.exe	bc562bfa43df013f
-2	77	7176852880383043	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-77	272	7176852882388599	XY_pattern.exe	bc562bfa43df013f
-2	73	7176853118756608	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-74	176	7176853119758995	XY_pattern.exe	bc562bfa43df013f
-1	71	7176854333447964	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-71	173	7176854334450324	XY_pattern.exe	bc562bfa43df013f
-1	71	7176854691844137	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-71	176	7176854692847205	XY_pattern.exe	bc562bfa43df013f
-2	70	7176854818390210	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-70	175	7176854819392881	XY_pattern.exe	bc562bfa43df013f
-2	71	7176854974581265	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-71	172	7176854975583645	XY_pattern.exe	bc562bfa43df013f
-1	69	7176855448580680	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-70	173	7176855449583815	XY_pattern.exe	bc562bfa43df013f
-1	70	7176855600491186	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
-71	176	7176855601494131	XY_pattern.exe	bc562bfa43df013f
 2	69	7176855688197605	CMakeFiles/XY_pattern.dir/main.c.obj	6f2eb972b77a5378
 69	187	7176855689265614	XY_pattern.exe	bc562bfa43df013f
