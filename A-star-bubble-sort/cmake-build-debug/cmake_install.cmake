@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/100-number-guessr
+# Install script for directory: C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/A-star-bubble-sort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/100_number_guessr")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/A_star_bubble_sort")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/100-number-guessr/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/A-star-bubble-sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
