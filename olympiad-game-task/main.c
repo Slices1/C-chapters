@@ -11,6 +11,7 @@ int main() {
     int rounds =0;
     int score =0;
     int blocksRemoved =0;
+    char x;
 
     //game rounds
     do {
