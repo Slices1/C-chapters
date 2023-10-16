@@ -52,6 +52,9 @@ printf("\n");
             for (int i = 0; i < 3; i++) {
                 for (int j = 0; j < 4; j++) {
                     if (gameboard[i][j] == gameboard[i+1][j]) {
+                        if (i < 2 && gameboard[i][j] == gameboard[i+2][j]) {
+                            gameboard[i+2][j] = ' ';
+                        }
                         gameboard[i][j],gameboard[i+1][j] = ' ';
                     }
                 }
@@ -60,6 +63,9 @@ printf("\n");
             for (int i = 0; i < 4; i++) {
                 for (int j = 0; j < 3; j++) {
                     if (gameboard[i][j] == gameboard[i][j+1]) {
+                        if (j < 2 && gameboard[i][j] == gameboard[i][j+2]) {
+                            gameboard[i][j+2] = ' ';
+                        }
                         gameboard[i][j],gameboard[i][j+1] = ' ';
                     }
                 }
