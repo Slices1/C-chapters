@@ -13,57 +13,77 @@ int main() {
     int blocksRemoved =0;
     char x;
 
+//generating game board
+for (int i = 0; i < 4; i++) {
+    for (int j = 0; j < 4; j++) {
+        letter_gen = rand() % 3 + 0;
+        if (letter_gen == 0) {
+            gameboard[i][j] = 'R';
+        } else if (letter_gen == 1) {
+            gameboard[i][j] = 'G';
+        } else if (letter_gen == 2) {
+            gameboard[i][j] = 'B';
+        }
+}
+printf("\n");
+}
     //game rounds
-    do {
-        printf("How many rounds would you like to play? (0-100): ");
-        scanf("%d",&rounds);
-    } while (rounds < 0 || rounds > 100);
+    while (1) {
+        do {
+            printf("\nHow many rounds would you like to play? (0-100): ");
+            scanf("%d", &rounds);
+        } while (rounds <= 0 || rounds > 100);
+        if (rounds == 0) {
+            exit;
+        }
+        //game start
+        while (rounds > 0) {
 
-    //game start
-    while (rounds > 0) {
-
-        //generating game board
-        for (int i = 0; i < 4; i++) {
-            for (int j = 0; j < 4; j++) {
-                letter_gen = rand() % 3 + 0;
-                if (letter_gen == 0) {
-                    gameboard[i][j] = 'R';
-                } else if (letter_gen == 1) {
-                    gameboard[i][j] = 'G';
-                } else if (letter_gen == 2) {
-                    gameboard[i][j] = 'B';
+            //printing game board
+            printf("-=Game Board=-\n");
+            for (int i = 0; i < 4; i++) {
+                printf("\n");
+                for (int j = 0; j < 4; j++) {
+                    printf("%c ", gameboard[i][j]);
                 }
             }
-            printf("\n");
-        }
 
-        //printing game board
-        printf("-=Game Board=-\n");
-        for (int i = 0; i < 4; i++) {
-            printf("\n");
-            for (int j = 0; j < 4; j++) {
-                printf("%c ", gameboard[i][j]);
+            //adjacent blocks dissapear
+            for (int i = 0; i < 3; i++) {
+                for (int j = 0; j < 4; j++) {
+                    if (gameboard[i][j] == gameboard[i+1][j]) {
+                        gameboard[i][j],gameboard[i+1][j] = ' ';
+                    }
+                }
             }
+            //vertical
+            for (int i = 0; i < 4; i++) {
+                for (int j = 0; j < 3; j++) {
+                    if (gameboard[i][j] == gameboard[i][j+1]) {
+                        gameboard[i][j],gameboard[i][j+1] = ' ';
+                    }
+                }
+            }
+
+
+            //blocks removed counted. score calculated
+            printf("\nblocks removed counted. score calculated");
+            //blocks falling from gravity
+            printf("\nblocks fall from gravity");
+            //loop
+
+            //win condition check
+            printf("\nwin condition check");
+
+            //score calculation
+            printf("\nscore calculation");
+            //round incrementation
+            printf("\nround incrementation");
+            rounds -= 1;
         }
-
-
-        //adjacent blocks dissapear
-
-        //blocks removed counted
-        //score is something to do with blocks removed
-        //blocks falling from gravity
-        //loop
-
-        //win condition check
-
-
-        //score calculation
-
-    //round incrementation
-    rounds -= 1;
+        printf("\n>>Game ended.\n>Score: %d", score);
+        return 0;
     }
-    printf("\n>>Game ended.\n>Score: %d",score);
-    return 0;
 }
 
 
