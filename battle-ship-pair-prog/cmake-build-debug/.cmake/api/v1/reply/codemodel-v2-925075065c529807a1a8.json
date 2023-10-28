@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "battle_ship_pair_prog",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "battle_ship_pair_prog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-battle_ship_pair_prog-Debug-dfd01c6b14167604ac74.json",
+					"name" : "battle_ship_pair_prog",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jonah.wilsontroy23/Documents/GitHub/C-chapters/battle-ship-pair-prog/cmake-build-debug",
+		"source" : "C:/Users/jonah.wilsontroy23/Documents/GitHub/C-chapters/battle-ship-pair-prog"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

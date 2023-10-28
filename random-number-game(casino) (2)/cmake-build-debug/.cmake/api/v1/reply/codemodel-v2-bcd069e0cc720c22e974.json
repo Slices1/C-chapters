@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "random_number_game",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "random_number_game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_number_game-Debug-8ba65f0ec16ff83f9181.json",
+					"name" : "random_number_game",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/random-number-game/cmake-build-debug",
+		"source" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/random-number-game"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

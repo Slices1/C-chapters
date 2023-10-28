@@ -1,0 +1,9 @@
+# ninja log v5
+0	89	7181123318204189	CMakeFiles/siteswap_patterns.dir/main.c.obj	58ea7e4523813d2
+91	266	7181123319909630	siteswap_patterns.exe	ca279e528b778b64
+1	90	7181124229219691	CMakeFiles/siteswap_patterns.dir/main.c.obj	58ea7e4523813d2
+90	218	7181124230486304	siteswap_patterns.exe	ca279e528b778b64
+1	76	7181124990183601	CMakeFiles/siteswap_patterns.dir/main.c.obj	58ea7e4523813d2
+77	193	7181124991323017	siteswap_patterns.exe	ca279e528b778b64
+1	82	7181125820711353	CMakeFiles/siteswap_patterns.dir/main.c.obj	58ea7e4523813d2
+82	207	7181125821949795	siteswap_patterns.exe	ca279e528b778b64

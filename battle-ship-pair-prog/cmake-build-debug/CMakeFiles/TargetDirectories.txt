@@ -1,0 +1,3 @@
+C:/Users/jonah.wilsontroy23/Documents/GitHub/C-chapters/battle-ship-pair-prog/cmake-build-debug/CMakeFiles/battle_ship_pair_prog.dir
+C:/Users/jonah.wilsontroy23/Documents/GitHub/C-chapters/battle-ship-pair-prog/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonah.wilsontroy23/Documents/GitHub/C-chapters/battle-ship-pair-prog/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/random-number-game/cmake-build-debug/CMakeFiles/random_number_game.dir
+C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/random-number-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/random-number-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
