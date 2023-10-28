@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "olympiad_game_task::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-olympiad_game_task-Debug-c686b3cd893d2ed6b599.json",
+					"jsonFile" : "target-olympiad_game_task-Debug-ed30191523854b9e7bf0.json",
 					"name" : "olympiad_game_task",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/jonah.wilsontroy23/Documents/GitHub/C-chapters/olympiad-game-task/cmake-build-debug",
-		"source" : "C:/Users/jonah.wilsontroy23/Documents/GitHub/C-chapters/olympiad-game-task"
+		"build" : "C:/Users/choco/Documents/GitHub/C-chapters/olympiad-game-task/cmake-build-debug",
+		"source" : "C:/Users/choco/Documents/GitHub/C-chapters/olympiad-game-task"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
