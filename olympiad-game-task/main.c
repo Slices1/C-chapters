@@ -140,8 +140,8 @@ for (int i = 0; i < 4; i++) {
             rounds -= 1;
         }
         printf("\n>>Game ended.\n>Score: %d", score);
-        return 0;
     }
+    return 0;
 }
 
 
