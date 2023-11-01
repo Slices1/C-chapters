@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "item_adder_task2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-item_adder_task2-Debug-7f8b719cdd3eb2cf516e.json",
+					"jsonFile" : "target-item_adder_task2-Debug-b928dcc4d43f23035920.json",
 					"name" : "item_adder_task2",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/item-adder-task2/cmake-build-debug",
-		"source" : "C:/Users/jonah.wilsontroy23/AppData/Local/GitHubDesktop/Local-clone-store/C-2nd-attempt/C-chapters/item-adder-task2"
+		"build" : "C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2/cmake-build-debug",
+		"source" : "C:/Users/choco/Documents/GitHub/C-chapters/item-adder-task2"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
