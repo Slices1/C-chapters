@@ -1,9 +1,16 @@
 #include <stdio.h>
+#include <string.h>
+
+//struct area (this is just to get all 6 profiles to work individually)
+struct profile {
+    char name[64];
+    char surname[64];
+    int childGuestCount;
+    int adultGuestCount;
+    int boardType;
+};
+
 //function area
-//...
-
-
-
 char checkIn() {
     //ed
     char userCharArray[which var][which letter of string] //for this decleration, enter max possible array depth/length
