@@ -139,7 +139,7 @@ for (int i = 0; i < 4; i++) {
             //round incrementation
             rounds -= 1;
         }
-        printf("\n>>Game ended.\n>Score: %d", score);
     }
+    printf("\n>>Game ended.\n>Score: %d", score);
     return 0;
 }
