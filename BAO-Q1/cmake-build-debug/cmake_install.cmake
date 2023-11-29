@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/choco/Documents/GitHub/C-chapters/tic-tac-toe-pair-prog
+# Install script for directory: C:/Users/choco/Documents/GitHub/C-chapters/BAO-Q1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/tic_tac_toe_pair_prog")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/BAO_Q1")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/choco/Documents/GitHub/C-chapters/tic-tac-toe-pair-prog/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/choco/Documents/GitHub/C-chapters/BAO-Q1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
