@@ -1,0 +1,35 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\jonah.wilsontroy23\OneDrive - BHASVIC\Documents\GitHub\C-chapters\prime_checker" -B "C:\Users\jonah.wilsontroy23\OneDrive - BHASVIC\Documents\GitHub\C-chapters\prime_checker\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.2.1/bin/mingw/bin/gcc.exe
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.2.1/bin/mingw/bin/gcc.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:67 (message):
+  The C compiler
+
+    "C:/Program Files/JetBrains/CLion 2023.2.1/bin/mingw/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/Documents/GitHub/C-chapters/prime_checker/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1mq7v3
+    
+    Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.2.1/bin/ninja/win/x64/ninja.exe -v cmTC_937d0 && [1/2] C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe   -fdiagnostics-color=always -o CMakeFiles/cmTC_937d0.dir/testCCompiler.c.obj -c "C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/Documents/GitHub/C-chapters/prime_checker/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1mq7v3/testCCompiler.c"
+    [2/2] cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe   CMakeFiles/cmTC_937d0.dir/testCCompiler.c.obj -o cmTC_937d0.exe -Wl,--out-implib,libcmTC_937d0.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+    FAILED: cmTC_937d0.exe 
+    cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe   CMakeFiles/cmTC_937d0.dir/testCCompiler.c.obj -o cmTC_937d0.exe -Wl,--out-implib,libcmTC_937d0.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+    C:\Program Files\JetBrains\CLion 2023.2.1\bin\mingw\bin/ld.exe: cannot open output file cmTC_937d0.exe: No such file or directory
+    collect2.exe: error: ld returned 1 exit status
+    ninja: build stopped: subcommand failed.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!

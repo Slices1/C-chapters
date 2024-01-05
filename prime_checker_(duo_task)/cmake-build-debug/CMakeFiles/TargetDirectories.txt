@@ -1,3 +1,0 @@
-C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/Documents/GitHub/C-chapters/prime_checker_(duo_task)/cmake-build-debug/CMakeFiles/prime_checker__duo_task_.dir
-C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/Documents/GitHub/C-chapters/prime_checker_(duo_task)/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jonah.wilsontroy23/OneDrive - BHASVIC/Documents/GitHub/C-chapters/prime_checker_(duo_task)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
