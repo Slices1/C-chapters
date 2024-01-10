@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\diy_stack.dir/objects.a
+C:\mingw64_2023\bin\ar.exe qc CMakeFiles\diy_stack.dir/objects.a @CMakeFiles\diy_stack.dir\objects1.rsp
+C:\mingw64_2023\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\diy_stack.dir/objects.a -Wl,--no-whole-archive -o diy_stack.exe -Wl,--out-implib,libdiy_stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\diy_stack.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\100_number_guessr.dir/objects.a
+C:\mingw64_2023\bin\ar.exe qc CMakeFiles\100_number_guessr.dir/objects.a @CMakeFiles\100_number_guessr.dir\objects1.rsp
+C:\mingw64_2023\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\100_number_guessr.dir/objects.a -Wl,--no-whole-archive -o 100_number_guessr.exe -Wl,--out-implib,lib100_number_guessr.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\100_number_guessr.dir\linkLibs.rsp
